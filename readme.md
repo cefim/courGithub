@@ -17,9 +17,15 @@ Fonctions supplémentaires (et indispensables) apportées par github:
 
 ## Pas à Pas
 
-### Créer un compte sur github
+### Prérequis : compte github et client graphique
 
 - Rendez-vous sur la [page d'accueil](https://github.com) et inscrivez-vous.
 - [Téléchargez le client](https://desktop.github.com) pour votre machine  
 Soyons clairs : git et github s'utilisent au mieux en utilisant la ligne de commande.  
 Mais le client graphique simplifie énormément la tâche, et nous suffira.
+
+### Définir un dossier local comme _dépôt_
+
+- Créer un dossier dans votre espace de travail habituel  
+Appelons-le, par exemple 'testGit'.
+- 
